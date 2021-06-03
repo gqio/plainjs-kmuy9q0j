@@ -16,7 +16,7 @@ template.innerHTML = /*html*/`
       height: 4rem;
       border: none;
       border-radius: 10px;
-      background-color: seagreen;
+      background-color: red;
       color: white;
     }
   </style>
