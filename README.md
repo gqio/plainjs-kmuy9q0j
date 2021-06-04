@@ -1,6 +1,6 @@
 # Standard JS WebComponent Starter-kit
 
-## Links
+## Links (2)
 
 - [A Brief Introduction](https://www.webcomponents.org/introduction)
 - [W3C Specifications](https://github.com/w3c/webcomponents/)
